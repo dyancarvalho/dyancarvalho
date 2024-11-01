@@ -1,6 +1,7 @@
 ## Olá, eu sou Dyan Carvalho 👋
 
-- 🖥️ Buscando por um estágio ou vaga jr como back-end
+- 🔎 Buscando por um estágio ou vaga jr como back-end
+- 🖥️ Freelancer em PHP (Laravel)
 - 📚 Estudando Java
 - 🚀 Entusiasmado para aplicar meu conhecimento e energia em um ambiente inovador
 
