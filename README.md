@@ -1,8 +1,8 @@
 # Olá, eu sou Dyan Carvalho 👋
 
-**Desenvolvimento back-end · PHP · Laravel · Java · Spring Boot**
+**Desenvolvimento back-end · PHP · Laravel · Java · Spring Boot · LLMs**
 
-Desenvolvo aplicações web com PHP e Laravel e estudo o ecossistema Java com Spring Boot. Aqui compartilho projetos e aprendizados em desenvolvimento back-end.
+Desenvolvo aplicações web com PHP e Laravel e estudo o ecossistema Java com Spring Boot. Também tenho experiência com modelos de linguagem de grande porte (LLMs). Aqui compartilho projetos e aprendizados em desenvolvimento back-end.
 
 ## Tecnologias
 
@@ -10,6 +10,7 @@ Desenvolvo aplicações web com PHP e Laravel e estudo o ecossistema Java com Sp
 | --- | --- |
 | Back-end | PHP, Laravel, Java e Spring Boot |
 | Web | HTML e CSS |
+| Inteligência artificial | LLMs (modelos de linguagem de grande porte) |
 
 ## Projetos
 
