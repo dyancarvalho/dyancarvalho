@@ -2,7 +2,7 @@
 
 **Desenvolvimento back-end · PHP · Laravel · Java · Spring Boot · LLMs**
 
-Desenvolvo aplicações web com PHP e Laravel e estudo o ecossistema Java com Spring Boot. Também tenho experiência com modelos de linguagem de grande porte (LLMs). Aqui compartilho projetos e aprendizados em desenvolvimento back-end.
+Desenvolvo aplicações web com PHP e Laravel e estudo o ecossistema Java com Spring Boot. Também tenho experiência com modelos de inteligencia artificial. Aqui compartilho projetos e aprendizados em desenvolvimento back-end.
 
 ## Tecnologias
 
